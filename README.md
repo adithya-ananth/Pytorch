@@ -1,1 +1,1 @@
-Basic functions of Pytorch library
+Basic functions of PyTorch library
